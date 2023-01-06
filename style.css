@@ -1,0 +1,538 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Lora', serif;
+}
+
+nav {
+    background: #fff;
+}
+
+.log {
+    margin-left: 50px;
+}
+
+.logo {
+    margin-left: 170px;
+    margin-top: 120px;
+}
+
+.carousel-item {
+    margin-top: 35px;
+}
+
+.time {
+    margin-top: 70px;
+    margin-left: 400px;
+}
+
+.kia {
+    margin-left: 650px;
+    margin-top: 80px;
+}
+
+.text {
+    margin-left: 500px;
+}
+
+.class {
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 30px;
+    letter-spacing: 0.01em;
+    color: #000000;
+    margin-top: 130px;
+    text-align: center;
+}
+
+.toy {
+    font-family: 'PT Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 130%;
+    color: #000000;
+    margin-top: 40px;
+    text-align: center;
+    width: 319px;
+    margin-left: 250px;
+}
+
+.nom {
+    display: flex;
+    justify-content: center;
+}
+
+.fa-solid {
+    align-items: flex-end;
+    margin-top: 5px;
+    margin-right: 5px;
+    color: red;
+}
+
+.ola {
+    display: flex;
+    justify-content: center;
+}
+
+.fa-solid2 {
+    align-items: flex-end;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+.yuk {
+    margin-top: 100px;
+    margin-left: 25px;
+}
+
+.nexia {
+    margin-top: 10px;
+    margin-left: 25px;
+}
+
+.mush {
+
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 18px;
+    /* identical to box height, or 129% */
+
+
+    color: #000000;
+    margin-top: 40px;
+    margin-left: 350px;
+}
+
+.xayri {
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 30px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #000000;
+    margin-left: 5px;
+    text-align: center;
+}
+
+.lupa2 {
+    margin-top: 18px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.xayri2 {
+
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 30px;
+    letter-spacing: 0.01em;
+    color: #000000;
+    margin-left: 7px;
+    text-align: center;
+}
+
+.mush2 {
+    margin-top: 40px;
+}
+
+.dumaloa3 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.df4 {
+    display: flex;
+}
+
+.dumaloa {
+    text-align: center;
+    margin-top: 125px;
+    margin-left: -50px;
+    margin-right: -15px;
+}
+
+.dumaloa2 {
+    text-align: center;
+    margin-top: 100px;
+    margin-left: -50px;
+    margin-right: -15px;
+}
+
+.dior {
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 30px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #000000;
+    margin-top: 150px;
+}
+
+.df2 {
+    display: flex;
+}
+
+.lola {
+    display: flex;
+    margin-top: 90px;
+}
+
+.lola2 {
+    display: flex;
+}
+
+.src {
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 20px;
+    letter-spacing: 0.01em;
+    color: #000000;
+    margin-top: 20px;
+}
+
+.soat {
+    width: 116px;
+    height: 20px;
+    left: 808px;
+    top: 3498px;
+    margin-top: 20px;
+    margin-left: 0px;
+}
+
+.soat2 {}
+
+.hayr {
+    margin-left: 100px;
+}
+
+.kit {
+
+    font-family: 'PT Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.01em;
+    color: #000000;
+}
+
+.oq {
+    margin-left: 570px;
+    margin-top: 30px;
+}
+
+.el {
+    margin-left: 230px;
+    margin-top: 20px;
+}
+
+.ol {
+    margin-top: 20px;
+}
+
+.ol2 {
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 150%;
+    letter-spacing: 0.01em;
+    color: #000000;
+    margin-left: 20px;
+}
+
+.soat232 {
+    margin-left: 170px;
+    margin-top: 40px;
+}
+
+.opa {
+    margin-top: 40px;
+    margin-left: 800px;
+}
+
+.lol {
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    color: #000000;
+    margin-top: 100px;
+    margin-left: 700px;
+}
+
+.lupa {
+    margin-right: 20px;
+}
+
+.soat2 {
+    margin-top: 40px;
+}
+
+.src2 {
+
+
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 20px;
+    letter-spacing: 0.01em;
+    color: #000000;
+    margin-top: 20px;
+    margin-bottom: -5px;
+}
+
+.time {
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    color: #000000;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 140px;
+}
+
+.time2 {
+
+    margin-top: 10px;
+    margin-left: 140px;
+}
+
+.apo {
+    text-align: center;
+}
+
+.xarita {
+    position: absolute;
+    width: 1911px;
+    height: 509px;
+    left: 13px;
+    top: 3980px;
+}
+
+.d {
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 30px;
+    color: #000000;
+    margin-top: 80px;
+}
+
+.o {
+    width: 375px;
+    height: 125px;
+    left: -1px;
+    bottom: 405px;
+}
+
+.l {
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 30px;
+    color: #000000;
+    margin-top: 20px;
+}
+
+.l2 {
+    width: 276px;
+    height: 60px;
+    left: 49px;
+    bottom: 309px;
+
+}
+
+.k {
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 30px;
+    color: #F4512D;
+}
+
+.k2 {
+    width: 109px;
+    height: 30px;
+    left: 37px;
+    bottom: 259px;
+}
+
+.f {
+    margin-top: 80px;
+    margin-left: 120px;
+}
+
+
+.qwer {
+    height: 50px;
+    left: 15.2%;
+    right: 71.47%;
+    bottom: 75px;
+}
+
+.qwer2 {
+    height: 50px;
+    left: 15.2%;
+    right: 71.47%;
+    bottom: 75px;
+}
+
+.q {
+    margin-left: 20px;
+}
+
+.z {
+    margin-left: 20px;
+}
+
+.x {
+    margin-left: 20px;
+}
+
+.p {
+    margin-left: 100px;
+    margin-top: 80px;
+}
+
+.p2 {
+    width: 102px;
+    height: 10px;
+    left: 140px;
+    bottom: 20px;
+}
+
+.w {
+    margin-left: 100px;
+}
+
+.footer-box {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-top: 50px;
+    width: 100%;
+}
+
+.footer-box div {
+    margin: 0;
+    width: 300px;
+}
+
+.footer-text {
+    color: #F4512D;
+}
+
+ul,
+li {
+    list-style: none;
+}
+
+.footer-list {
+    display: flex;
+
+}
+
+.footer-list img {
+    margin-left: 20px;
+}
+
+/*-------------------------------------------- Responsive------------------------------------ */
+/* 992 dan 1199 gacha */
+@media (max-width: 1199px) {}
+
+/* 768 dan 991 gacha */
+@media (max-width: 991px) {}
+
+/* 576 dan 767 gacha */
+@media (max-width: 767px) {
+    .footer-box div {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+
+    }
+
+    .footer-list {
+        width: 40%;
+        justify-content: space-evenly;
+        align-items: center;
+        margin-right: 120px;
+    }
+
+    .footer-list img {
+        margin-left: 0 !important;
+        padding: 0 !important;
+        padding-left: 0;
+    }
+}
+
+/* 0 dan 575 gacha */
+@media (max-width: 575px) {
+    .class {
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 30px;
+        text-align: center;
+        letter-spacing: 0.01em;
+        color: #000000;
+        margin-top: 0;
+    }
+
+    .oq {
+        margin-left: 130px;
+        transform: scale(0.7);
+        margin-top: 0;
+    }
+
+    .toy {
+        margin-top: 0;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 130%;
+        text-align: center;
+        color: #000000;
+        margin-left: -31px;
+    }
+
+    .nom {
+        transform: scale(0.8);
+    }
+
+    .ola {
+        transform: scale(0.8);
+    }
+
+    oq {
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 30px;
+        text-align: center;
+        letter-spacing: 0.01em;
+        color: #000000;
+        margin-left: -100px;
+    }
+}
